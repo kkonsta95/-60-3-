@@ -73,88 +73,53 @@
  
 
  
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-Σπιλάνης, Ι., Κίζος, Α., Μητροπούλου, Α., & Γαστεράτου, Α. (2023). Νησιωτικότητα 2021-2027 [Islandness 2021-2027]. European Union. Ανακτήθηκε από  https://www.eetaa.gr/wp-content/uploads/2023/06/nisiotikotita-2021-2027.pdf 
-
- 
-
-Περιφέρεια Νοτίου Αιγαίου. (2010). Γενική Διεύθυνση Περιφερειακής Αγροτικής Οικονομίας και Κτηνιατρικής. Ανακτήθηκε από  https://ecoanemos.wordpress.com/wp-content/uploads/2010/01/karpathos.pdf 
-
- 
-
-Κοκκώσης, Χ., & Τσάρτας, Π. (2020). Ειδικές και εναλλακτικές μορφές τουρισμού. Εκδόσεις Κριτική. 
-
- 
-
-Juganaru, I. D., Juganaru, M., & Anghel, A. (2008). Sustainable tourism types. RePEc. Retrieved from https://www.researchgate.net/publication/23977046_Sustainable_tourism_types 
-
- 
-
-Tonn, B. E., & MacGregor, D. (2000). Contributions to sustainability by communities and individuals: Problems and prospects. CiteSeer. https://doi.org/10.2172/1912 
-
- 
-
-Ίκκος, Α., Ρασούλη, Γ., & Καραγκούνη, Α. (2021). Ο τουρισμός το 2040: Οι κύριες τάσεις που θα διαμορφώσουν το μονοπάτι του ταξιδιού στον τουρισμό. ΙΝΣΕΤΕ. Ανακτήθηκε από https://insete.gr/wp-content/uploads/2021/12/ΣΕΤΕ_Ο_τουρισμός_το_2040-l.pdf 
-
- 
-
-Tso, E., & Taqa, A. (2017). The evolution of global tourism: Trends, challenges, and opportunities. Amer Research. Retrieved from https://www.researchgate.net/publication/384055504_The_Evolution_of_Global_Tourism_Trends_Challenges_and_Opportunities 
+ΒΙΒΛΙΟΓΡΑΦΙΚΕΣ ΑΝΑΦΟΡΕΣ
 
 
-Triarchi, E., & Karamanis, K. (2017). The evolution of alternative forms of tourism: A theoretical background. Business & Entrepreneurship Journal, 6(1), 39-59. Scienpress Ltd.
-
-
-Xypolias, S., & Astara, O.-E. (2023). The contribution of special and alternative forms of tourism to the sustainable development of tourist destinations: Case studies. Economics World, 10(4), 155-177. https://doi.org/10.17265/2328-7144/2023.04.001
-
-
-Περιφέρεια Νοτίου Αιγαίου. (2014). Επιχειρησιακό Σχέδιο Αγροτικής Ανάπτυξης 2014 - 2020: Κάρπαθος. Γενική Διεύθυνση Περιφερειακής Αγροτικής Οικονομίας και Κτηνιατρικής. 
-
-
-Δήμος Καρπάθου. (2022). Ενημέρωση για την πορεία της τουριστικής περιόδου στην Κάρπαθο. Ανακτήθηκε από https://karpathos.gr/enimerosi-gia-tin-poreia-tis-touristikis-periodou-stin-karpatho/ 
-
-
-Παραγυιός, Κ. (2021). Προβληματισμός στην Κάρπαθο για παραλείψεις σε τμήμα του οδικού δικτύου. Ροδιακή. Ανακτήθηκε από https://www.rodiaki.gr/index.php/article/461852/tos 
-
-
-Agius, K., Theuma, N., Deidun, A., & Camilleri, L. (2019). Small Islands as Ecotourism Destinations: A Central Mediterranean Perspective. Island Studies Journal, 14(2), 115–136. https:/ / doi.org/ 10.24043/ isj.97 
-
-
-Τουφεγγοπούλου, Α. (2017). Περιφερειακών χωροταξικών πλαισίων: Β΄ παραδοτέο. ΙΝΣΕΤΕ. Ανακτήθηκε από https://insete.gr/wp-content/uploads/2020/02/2017_Xwrikh_Anaptyksh_Organwsh.pdf 
+Ελληνόγλωσση βιβλιογραφία
 
 
 Δήμος Καρπάθου, χ.χ , Εναλλακτικός τουρισμός. Ανακτήθηκε 2 Μαρτίου, 2025, από  https://karpathos.gr/enallaktikos-tourismos/ 
 
 
+Δήμος Καρπάθου. (2022). Ενημέρωση για την πορεία της τουριστικής περιόδου στην Κάρπαθο. Ανακτήθηκε από https://karpathos.gr/enimerosi-gia-tin-poreia-tis-touristikis-periodou-stin-karpatho/
+
+
+Ίκκος, Α., Ρασούλη, Γ., & Καραγκούνη, Α. (2021). Ο τουρισμός το 2040: Οι κύριες τάσεις που θα διαμορφώσουν το μονοπάτι του ταξιδιού στον τουρισμό. ΙΝΣΕΤΕ. Ανακτήθηκε από https://insete.gr/wp-content/uploads/2021/12/ΣΕΤΕ_Ο_τουρισμός_το_2040-l.pdf 
+
+
+Κοκκώσης, Χ., & Τσάρτας, Π. (2020). Ειδικές και εναλλακτικές μορφές τουρισμού. Εκδόσεις Κριτική. 
+
+
+Περιφέρεια Νοτίου Αιγαίου. (2014). Επιχειρησιακό Σχέδιο Αγροτικής Ανάπτυξης 2014 - 2020: Κάρπαθος. Γενική Διεύθυνση Περιφερειακής Αγροτικής Οικονομίας και Κτηνιατρικής. 
+
+
+Σπιλάνης, Ι., Κίζος, Α., Μητροπούλου, Α., & Γαστεράτου, Α. (2023). Νησιωτικότητα 2021-2027 [Islandness 2021-2027]. European Union. Ανακτήθηκε από  https://www.eetaa.gr/wp-content/uploads/2023/06/nisiotikotita-2021-2027.pdf 
+
+ 
+Περιφέρεια Νοτίου Αιγαίου. (2010). Γενική Διεύθυνση Περιφερειακής Αγροτικής Οικονομίας και Κτηνιατρικής. Ανακτήθηκε από  https://ecoanemos.wordpress.com/wp-content/uploads/2010/01/karpathos.pdf 
+
+
+Παραγυιός, Κ. (2021). Προβληματισμός στην Κάρπαθο για παραλείψεις σε τμήμα του οδικού δικτύου. Ροδιακή. Ανακτήθηκε από https://www.rodiaki.gr/index.php/article/461852/tos 
+
+
+Τουφεγγοπούλου, Α. (2017). Περιφερειακών χωροταξικών πλαισίων: Β΄ παραδοτέο. ΙΝΣΕΤΕ. Ανακτήθηκε από https://insete.gr/wp-content/uploads/2020/02/2017_Xwrikh_Anaptyksh_Organwsh.pdf 
+
+
+
+Ξενόγλωσση βιβλιογραφία
+
+
+Agius, K., Theuma, N., Deidun, A., & Camilleri, L. (2019). Small Islands as Ecotourism Destinations: A Central Mediterranean Perspective. Island Studies Journal, 14(2), 115–136. https:/ / doi.org/ 10.24043/ isj.97 
+
+
+Delener, N. (2010). Current trends in the global tourism industry: Evidence from the United States. Revista de Administração Pública, 44(5), 1125-1137. https://doi.org/10.1590/S0034-76122010000500006 
+
+
+Juganaru, I. D., Juganaru, M., & Anghel, A. (2008). Sustainable tourism types. RePEc. Retrieved from https://www.researchgate.net/publication/23977046_Sustainable_tourism_types 
+
+
 Kurniawan, H., Yulianto, Y., Setiawan, R., & Ardiansyah, M. (2023). Sustainable development through community empowerment based on local wisdom. International Journal of Progressive Sciences and Technologies, 41(2), 164. https://doi.org/10.52155/ijpsat.v41.2.5719
-
-
-Santana-Talavera, A., & González-Morales, O. (2024). Evaluating the consumption of local products in luxury hotels. Tourism and Hospitality, 5(4), 1437–1455. https://doi.org/10.3390/tourhosp5040080 
 
 
 National Marine Sanctuaries. (n.d.). Tour operators’ contributions to sustainable tourism in protected areas. Retrieved from https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/management/international/pdfs/day4_hand-outs.pdf 
@@ -163,14 +128,68 @@ National Marine Sanctuaries. (n.d.). Tour operators’ contributions to sustaina
 Santana-Talavera, A., & González-Morales, O. (2024). Evaluating the consumption of local products in luxury hotels. Tourism and Hospitality, 5(4), 1437-1455. https://doi.org/10.3390/tourhosp5040080 
 
 
-Δήμος Καρπάθου, χ.χ , Εναλλακτικός τουρισμός. Ανακτήθηκε 2 Μαρτίου, 2025, από  https://karpathos.gr/enallaktikos-tourismos/ 
+Triarchi, E., & Karamanis, K. (2017). The evolution of alternative forms of tourism: A theoretical background. Business & Entrepreneurship Journal, 6(1), 39-59. Scienpress Ltd.
 
  
-Delener, N. (2010). Current trends in the global tourism industry: Evidence from the United States. Revista de Administração Pública, 44(5), 1125-1137. https://doi.org/10.1590/S0034-76122010000500006 
+Tonn, B. E., & MacGregor, D. (2000). Contributions to sustainability by communities and individuals: Problems and prospects. CiteSeer. https://doi.org/10.2172/1912 
+
+ 
+Tso, E., & Taqa, A. (2017). The evolution of global tourism: Trends, challenges, and opportunities. Amer Research. Retrieved from https://www.researchgate.net/publication/384055504_The_Evolution_of_Global_Tourism_Trends_Challenges_and_Opportunities 
+
+ 
+Xypolias, S., & Astara, O.-E. (2023). The contribution of special and alternative forms of tourism to the sustainable development of tourist destinations: Case studies. Economics World, 10(4), 155-177. https://doi.org/10.17265/2328-7144/2023.04.001
+
 
  
 
-Tso, E., & Taqa, A. (2017). The evolution of global tourism: Trends, challenges, and opportunities. Retrieved from https://www.researchgate.net/publication/384055504_The_Evolution_of_Global_Tourism_Trends_Challenges_and_Opportunities 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
 
 
 
